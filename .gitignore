@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS / system files
+.DS_Store
+
+# Build
+*.egg-info/
+*.sqlite3
+
+# Output
+evaluation_results.json
